@@ -1,0 +1,17 @@
+.body_design {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.background_image_homepage {
+  background-image: url("./../../Pictures/Backgrounds/home_bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: -1;
+}

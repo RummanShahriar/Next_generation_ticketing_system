@@ -1,0 +1,5 @@
+login signup bg: https://unsplash.com/photos/white-and-black-bus-running-near-the-mountain-6mcVaoGNz1w
+home page bg: https://unsplash.com/photos/passenger-bus-interior-LoOC6U6gQpQ?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+admin page bg: https://unsplash.com/photos/people-riding-passenger-bus-during-daytime-6fF-Ojxov6o?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
+steering wheel icon: https://www.flaticon.com/free-icon-font/steering-wheel_7433984
+exit icon: https://www.flaticon.com/free-icon-font/exit-alt_13088003?page=1&position=42&term=door&origin=search&related_id=13088003
